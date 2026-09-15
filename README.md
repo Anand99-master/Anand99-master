@@ -1,12 +1,139 @@
-- 👋 Hi, I’m @Anand99-master
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
 
-<!---
-Anand99-master/Anand99-master is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Anand Sharma
+
+### Data Analyst | Data Science Enthusiast | Python | SQL | Power BI
+
+Turning data into **meaningful insights, dashboards, and practical solutions.**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Data Analyst and Data Science enthusiast** focused on transforming raw data into clear, actionable business insights.
+
+- 📊 Interested in **Data Analytics, Business Intelligence & Data Science**
+- 🐍 Working with **Python, Pandas, NumPy & Matplotlib**
+- 🗄️ Building skills in **SQL & database analysis**
+- 📈 Creating **Power BI dashboards and KPI reports**
+- 🤖 Exploring **Machine Learning & Generative AI**
+- 🚀 Building practical, end-to-end analytics projects
+- 💡 Interested in solving real-world business problems with data
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Development & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Machine Learning & AI
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+- 📊 Interactive **Power BI dashboards & business reports**
+- 🧹 **Data cleaning, transformation & exploratory analysis**
+- 🗄️ **SQL-based data extraction and analysis**
+- 🐍 Python-based **analytics tools and applications**
+- 🤖 **Machine Learning applications and predictive models**
+- 🌐 Full-stack applications using **React & Node.js**
+- ⚡ Practical **data-driven solutions** for real-world problems
+
+---
+
+## 📂 Featured Projects
+
+- **Data Cleaning System** — Automated data cleaning and preprocessing using Python, Pandas and Streamlit.
+- **Data Analysis Workspace / DataPilot** — Data analysis workspace focused on SQL generation, database analysis and analytics workflows.
+- **Real-Time Chat Mini Website** — Real-time web application using React, Node.js and related technologies.
+- **Social Media Platform** — Full-stack social media application project.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Learning
+├── Advanced SQL
+├── Power BI & DAX
+├── Statistics
+├── Machine Learning
+└── Generative AI
+
+Building
+├── End-to-End Data Analytics Projects
+├── DataPilot / Analysis Workspace
+├── Business Intelligence Dashboards
+└── Production-Oriented Data Solutions
+
+Exploring
+├── Artificial Intelligence
+├── Predictive Analytics
+├── Data Engineering
+└── Intelligent Applications
+```
+
+---
+
+## 📌 Core Skills
+
+| Area | Focus |
+|---|---|
+| 📊 Data Analytics | Data cleaning, EDA, insights & reporting |
+| 🗄️ SQL | Queries, joins, CTEs, analysis & transformation |
+| 📈 Power BI | Dashboards, KPIs, DAX & business intelligence |
+| 🐍 Python | Pandas, NumPy, visualization & automation |
+| 🤖 Machine Learning | Predictive modelling & model evaluation |
+| 💻 Development | React, Node.js, Java & application development |
+| 🧠 Generative AI | AI-powered applications & intelligent workflows |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand99-master&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand99-master&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations in **Data Analytics, Data Science, Business Intelligence, AI/ML and Software Development**.
+
+<div align="center">
+
+⭐ Explore my repositories and feel free to connect!
+
+### 💻 Learn • Build • Analyze • Improve 🚀
+
+</div>
