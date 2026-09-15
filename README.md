@@ -114,15 +114,104 @@ Exploring
 
 ---
 
-## 📈 GitHub Activity
+## 📚 All Repositories
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Anand99-master&show_icons=true&hide_border=true&theme=tokyonight" alt="Anand's GitHub Stats" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anand99-master&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+### 🧹 Data Cleaning System v3
+**Python • Pandas • Streamlit**
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Anand99-master&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+Automated data cleaning and preprocessing application.
+
+<a href="https://github.com/Anand99-master/Data-Clening-System-verson3">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat
+**React • Node.js • Socket.IO**
+
+Real-time chat application with authentication and media sharing.
+
+<a href="https://github.com/Anand99-master/Real-time-chat-mini-website-">🔗 View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Social Media Platform
+**Full-Stack Web Application**
+
+Social media platform project with modern web development features.
+
+<a href="https://github.com/Anand99-master/Social-Midea-Plateform">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 Data Cleaning System
+**Data Cleaning Project**
+
+Earlier version of the data cleaning application.
+
+<a href="https://github.com/Anand99-master/Data-Clening-System">🔗 View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Folder UI
+**Frontend / UI Project**
+
+Mobile-style folder interface experiment.
+
+<a href="https://github.com/Anand99-master/Chenge-A-folder-like-mobile-">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 aman99m
+**GitHub Repository**
+
+Experimental / project repository.
+
+<a href="https://github.com/Anand99-master/aman99m">🔗 View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Social Media Platform — New Version
+**Full-Stack Project**
+
+Latest social media platform repository.
+
+<a href="https://github.com/Anand99-master/Social-Midea-Plateform-">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 Anand Sharma
+**GitHub Project**
+
+Additional public repository and project space.
+
+<a href="https://github.com/Anand99-master/Anand-Sharma">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Anand99-master?tab=repositories"><b>🔎 Explore All Repositories →</b></a>
 
 </div>
 
