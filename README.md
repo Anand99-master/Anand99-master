@@ -118,9 +118,11 @@ Exploring
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand99-master&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Anand99-master&show_icons=true&hide_border=true&theme=tokyonight" alt="Anand's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand99-master&layout=compact&hide_border=true)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anand99-master&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Anand99-master&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
