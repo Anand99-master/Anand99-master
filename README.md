@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=ANAND%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI%2FML&descAlignY=62&descSize=18" width="100%" alt="Anand Sharma Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6E7C8,50:DFC89A,100:5F4630&height=190&section=header&text=ANAND%20SHARMA&fontSize=42&fontColor=4A2F1B&fontAlignY=40&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI%2FML&descAlignY=62&descSize=18&descColor=5C4632" width="100%" alt="Anand Sharma Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Enthusiast;Machine+Learning+%26+Generative+AI;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=8B5E34&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Enthusiast;Machine+Learning+%26+Generative+AI;Full-Stack+Developer" alt="Typing SVG" />
 
 Turning data into **meaningful insights, dashboards, and practical solutions.**
 
