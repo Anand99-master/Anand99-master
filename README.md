@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anand Sharma
 
-### Data Analyst | Data Science Enthusiast | Python | SQL | Power BI
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Enthusiast;Machine+Learning+%26+Generative+AI;Full-Stack+Developer" alt="Typing SVG" />
 
 Turning data into **meaningful insights, dashboards, and practical solutions.**
 
