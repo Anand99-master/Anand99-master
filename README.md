@@ -114,7 +114,7 @@ Exploring
 
 ---
 
-## 📚 All Repositories
+## 📚 Selected Projects
 
 <div align="center">
 
@@ -176,34 +176,12 @@ Mobile-style folder interface experiment.
 </td>
 <td width="50%" valign="top">
 
-### 🧪 aman99m
-**GitHub Repository**
+### 👁️ AI Smart Vision Assistant
+**Python • AI • Computer Vision**
 
-Experimental / project repository.
+AI-powered vision assistant project focused on intelligent visual assistance.
 
-<a href="https://github.com/Anand99-master/aman99m">🔗 View Repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Social Media Platform — New Version
-**Full-Stack Project**
-
-Latest social media platform repository.
-
-<a href="https://github.com/Anand99-master/Social-Midea-Plateform-">🔗 View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 Anand Sharma
-**GitHub Project**
-
-Additional public repository and project space.
-
-<a href="https://github.com/Anand99-master/Anand-Sharma">🔗 View Repository</a>
+<a href="https://github.com/Anand99-master/ai-smart-vision-assistant">🔗 View Repository</a>
 
 </td>
 </tr>
