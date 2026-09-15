@@ -127,7 +127,7 @@ Exploring
 
 Automated data cleaning and preprocessing application.
 
-<a href="https://github.com/Anand99-master/Data-Clening-System-verson3">🔗 View Repository</a>
+<a href="https://data-clening-system-verson3git-avicduapphfnhwytrafkbqed.streamlit.app"><b>🚀 Live Demo</b></a> &nbsp; | &nbsp; <a href="https://github.com/Anand99-master/Data-Clening-System-verson3">🔗 View Repository</a>
 
 </td>
 <td width="50%" valign="top">
