@@ -71,7 +71,7 @@ I'm a **Data Analyst and Data Science enthusiast** focused on transforming raw d
 - **Data Cleaning System** — Automated data cleaning and preprocessing using Python, Pandas and Streamlit.
 - **Data Analysis Workspace / DataPilot** — Data analysis workspace focused on SQL generation, database analysis and analytics workflows.
 - **Real-Time Chat Mini Website** — Real-time web application using React, Node.js and related technologies.
-- **Social Media Platform** — Full-stack social media application project.
+- **AI Smart Vision Assistant** — AI-powered vision assistant project focused on intelligent visual assistance.
 
 ---
 
@@ -147,9 +147,9 @@ Real-time chat application with authentication and media sharing.
 ### 🌐 Social Media Platform
 **Full-Stack Web Application**
 
-Social media platform project with modern web development features.
+Private full-stack social media platform project.
 
-<a href="https://github.com/Anand99-master/Social-Midea-Plateform">🔗 View Repository</a>
+<a href="https://github.com/Anand99-master/Social-Midea-Plateform-">🔗 View Repository</a>
 
 </td>
 <td width="50%" valign="top">
