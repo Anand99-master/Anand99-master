@@ -132,46 +132,24 @@ Automated data cleaning and preprocessing application.
 </td>
 <td width="50%" valign="top">
 
+### 📊 DataPilot – Data Analysis Workspace
+**Python • SQL • Data Analysis**
+
+SQL-based data analysis workspace focused on query generation, database analysis and analytics workflows.
+
+<a href="https://github.com/Anand99-master"><b>🔗 View GitHub Profile</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💬 Real-Time Chat
 **React • Node.js • Socket.IO**
 
 Real-time chat application with authentication and media sharing.
 
 <a href="https://github.com/Anand99-master/Real-time-chat-mini-website-">🔗 View Repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Social Media Platform
-**Full-Stack Web Application**
-
-Private full-stack social media platform project.
-
-<a href="https://github.com/Anand99-master/Social-Midea-Plateform-">🔗 View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧹 Data Cleaning System
-**Data Cleaning Project**
-
-Earlier version of the data cleaning application.
-
-<a href="https://github.com/Anand99-master/Data-Clening-System">🔗 View Repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Folder UI
-**Frontend / UI Project**
-
-Mobile-style folder interface experiment.
-
-<a href="https://github.com/Anand99-master/Chenge-A-folder-like-mobile-">🔗 View Repository</a>
 
 </td>
 <td width="50%" valign="top">
